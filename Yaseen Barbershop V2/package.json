@@ -1,0 +1,17 @@
+{
+  "name": "yaseen-barbershop",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Yaseen Barbershop - bilingual booking and admin system for Vercel + Supabase",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
